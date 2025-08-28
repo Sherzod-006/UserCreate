@@ -5,9 +5,7 @@ const App = () => {
   return (
     <main className="flex flex-col min-h-screen">
       <Header />
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+      <h1 className="text-5xl text-center mt-10 font-bold text-gray-300">No Users Found</h1>
       <Footer />
     </main>
   )
